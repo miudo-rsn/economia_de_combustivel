@@ -22,9 +22,9 @@ O programa informa:
 
 ##  Funcionalidades
 
- Limpa a tela automaticamente (Windows, Linux e macOS)
- Cálculo do **mínimo necessário para compensar a ida ao posto mais barato**
- Cálculo se um **valor específico de abastecimento compensa**
+ Limpa a tela automaticamente (Windows, Linux e macOS).
+ Cálculo do **mínimo necessário para compensar a ida ao posto mais barato**.
+ Cálculo se um **valor específico de abastecimento compensa**.
  
  Considera dois cenários:
 
